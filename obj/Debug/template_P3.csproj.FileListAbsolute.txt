@@ -1,0 +1,7 @@
+C:\Users\Nicole\Documents\UU\informatica\jaar 1\4 Graphics\P3\template\bin\Debug\template_P3.exe.config
+C:\Users\Nicole\Documents\UU\informatica\jaar 1\4 Graphics\P3\template\bin\Debug\template_P3.exe
+C:\Users\Nicole\Documents\UU\informatica\jaar 1\4 Graphics\P3\template\bin\Debug\template_P3.pdb
+C:\Users\Nicole\Documents\UU\informatica\jaar 1\4 Graphics\P3\template\bin\Debug\OpenTK.dll
+C:\Users\Nicole\Documents\UU\informatica\jaar 1\4 Graphics\P3\template\obj\Debug\template_P3.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Documents\UU\informatica\jaar 1\4 Graphics\P3\template\obj\Debug\template_P3.exe
+C:\Users\Nicole\Documents\UU\informatica\jaar 1\4 Graphics\P3\template\obj\Debug\template_P3.pdb
